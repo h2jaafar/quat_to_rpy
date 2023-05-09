@@ -1,0 +1,4 @@
+w_label = ttk.Label(input_frame, text="W:")
+w_label.grid(row=3, column=0, sticky=tk.W)
+w_entry = ttk.Entry(input_frame, width=10)
+w_entry.grid(row=3, column=1, sticky=(tk.W, tk.E))

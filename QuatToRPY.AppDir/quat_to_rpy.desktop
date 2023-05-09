@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=QuatToRPY
+Exec=AppRun
+Icon=quat_to_rpy
+Terminal=false
+Categories=Utility;
